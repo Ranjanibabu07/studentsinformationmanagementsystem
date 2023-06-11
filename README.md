@@ -14,3 +14,5 @@ Images for home pages are
 >For password image icon **password.png**
 
 >For students logo image icon **students.png**
+
+And also create the mysql backend storage space for storing the created datas 
